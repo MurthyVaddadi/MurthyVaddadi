@@ -1,3 +1,4 @@
+![logo](https://github.com/MurthyVaddadi/MurthyVaddadi/blob/main/IIMMGGgggg.png)
 <h1 align="center">Hello Coders, I'm Murthy Vaddadi</h1>
 <h3 align="center">A passionate Software Developer Currently working as a Java Full Stack Developer with a passion for crafting efficient and scalable solutions. With a Master's degree in Computer Science from the Illinois Institute of Technology and a Machine Learning and Artificial Intelligence certification from Great Learning In collaboration with the University of Texas at Austin, I bring a strong foundation in both software development and data-driven technologies. Leveraging expertise in application development and data analytics to drive technology forward and create impactful solutions</h3>
 
