@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Spring Boot-based backend REST API projects with React.js for frontend development.**
 
-- 👯 I’m looking to collaborate on **Integrate LLM-based functionalities in the front-end development**
+- 👯 I’m looking to collaborate on **Integrating LLM-based functionalities in the front-end development**
 
-- 👨‍💻 Passions [Coding, Soccer and Biking](Coding, Soccer and Biking)
+- 👨‍💻 Passions - (Coding, Soccer and Biking)
 
 - 💬 Ask me about **My experiences in Full Stack Development**
 
@@ -18,8 +18,8 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left">
-<a href="https://twitter.com/aditya06619626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditya06619626" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/murthy204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murthy204" height="30" width="40" /></a>
+<a href="https://twitter.com/aditya06619626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditya06619626" height="30" width="40" /></a>
 <a href="https://kaggle.com/vvsnmurthy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vvsnmurthy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aditya_murthy191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aditya_murthy191" height="30" width="40" /></a>
 </p>
